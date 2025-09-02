@@ -1,7 +1,7 @@
 # BBC Disability News Coverage Analysis
 
 A quantitative analysis of disability representation patterns in BBC News' dedicated disability section (January-July 2025).
-
+![Paper:](The Range of Disability Diversity in BBC News Reporting 2.pdf)
 ## Key Findings
 
 Analysis of 707 headlines from [BBC's disability section](https://www.bbc.co.uk/news/disability) reveals:
