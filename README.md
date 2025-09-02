@@ -5,7 +5,7 @@ A quantitative analysis of disability representation patterns in BBC News' dedic
 
 ## Academic Paper
 
-[Full Academic Paper (PDF)](The_Range_of_Disability_Diversity_in_BBC_News_Reporting_2.pdf)
+[Full Academic Paper (PDF)](The%20Range%20of%20Disability%20Diversity%20in%20BBC%20News%20Reporting%202.pdf)
 
 ## Key Findings
 
