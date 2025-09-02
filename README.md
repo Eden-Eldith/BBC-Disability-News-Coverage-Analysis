@@ -11,9 +11,9 @@ Analysis of 707 headlines from [BBC's disability section](https://www.bbc.co.uk/
 - **SEND/Special Schools dominates at 17%** of all coverage
 - **Diagonal pattern in co-occurrence matrix** shows disabilities presented in isolation rather than as intersectional experiences
 
-![Coverage Distribution](images/bbc_disability_coverage_v3.png)
+![Coverage Distribution](bbc_disability_coverage_v3.png)
 
-![Co-occurrence Heatmap](images/bbc_cooccurrence_heatmap_v3.png)
+![Co-occurrence Heatmap](bbc_cooccurrence_heatmap_v3.png)
 
 ## Methodology
 
